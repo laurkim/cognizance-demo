@@ -24,6 +24,8 @@ There are four levels of difficulty:
   - Medium: Three rows of cards are rendered for intermediate skill-building once a user is able to complete the Easy level with minimal amount of clicks
   - Hard: Four rows of cards are rendered for advanced skill-building once a user is able to complete the Medium level with the fewest clicks possible
 
+Upon opening the game, it will default to the "Basic" level so a user can get familiar with the game functionality.
+
 ![Cognizance Difficulty](demo-gifs/game-difficulty.gif)
 
 ### User Account Creation
