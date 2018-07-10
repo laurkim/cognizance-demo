@@ -35,3 +35,5 @@ There are four levels of difficulty:
 
 ### User Account Creation
 The game will account for whether or not a user is logged in. When there is no one logged in, it will display a message.
+
+![Cognizance Login](demo-gifs/game-login.gif)
