@@ -7,15 +7,8 @@ This is a demo for Cognizance, a cognitive learning memory game built in JavaScr
 1. [Immediate Validation on Card Flip](#immediate-validation-on-card-flip)
 2. [Increasing Levels of Difficulty](#increasing-levels-of-difficulty)
 3. [User Account Creation](#user-account-creation)
-
-
-
-
-
-
-![Cognizance Game Over](demo-gifs/game-over.gif)
-
-![Cognizance Game Restart](demo-gifs/game-restart.gif)
+4. [Real Time Leaderboard Updates](#real-time-leaderboard-updates)
+5. [Responsive Game Refresh](#responsive-game-refresh)
 
 ### Immediate Validation on Card Flip
 When a user chooses a difficulty and starts the game, there is a countdown during which all functionality for the board where the cards are rendered is disabled. Once the game begins, a timer starts to keep track of the duration of the game. A user can click on a card in intervals of two at a time.
@@ -34,6 +27,24 @@ There are four levels of difficulty:
 ![Cognizance Difficulty](demo-gifs/game-difficulty.gif)
 
 ### User Account Creation
-The game will account for whether or not a user is logged in. When there is no one logged in, it will display a message.
+The game will account for whether or not a user is logged in. When there is no one logged in, it will display a message to notify the user of it.
+
+Once the user enters the name, the message will update to render the current user based on the user input.
 
 ![Cognizance Login](demo-gifs/game-login.gif)
+
+### Real Time Leaderboard Updates
+When a user matches all of the cards, the entire board will become disabled.
+
+The timer will stop and a message will render over the game board with the amount of tries the user took and the amount of time it took them to complete the game.
+
+If a user has completed the game with a score higher than what is currently on the leaderboard, it will update immediately after the end of the game to reflect this new score. Originally, the user "Meryl" is listed in the number one spot on the leaderboard but since the user "Laura" completed the game in less tries, the user "Laura" replaced "Meryl" on the leaderboard and "Meryl" was bumped down a spot.
+
+![Cognizance Game Over](demo-gifs/game-over.gif)
+
+### Responsive Game Refresh
+A user has the option to end their current game, regardless of their level of completion, and start a completely new game if desired.
+
+For example, if a user was playing the game on a difficulty level of "Medium" and decided to continue training on a less advanced level, the user could click the "New Game" button and thus refreshing the entire board and timer.
+
+![Cognizance Game Restart](demo-gifs/game-restart.gif)
