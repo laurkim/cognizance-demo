@@ -4,16 +4,16 @@ This is a demo for Cognizance, a cognitive learning memory game built in JavaScr
 
 
 
-![Cognizance Login](https://gph.to/2NEx1zO)
+![Cognizance Login](https://media.giphy.com/media/3dfhUUxm2ITPBttbYu/giphy.gif)
 
 
-![Cognizance Difficulty](https://gph.to/2m8ppct)
+![Cognizance Difficulty](https://media.giphy.com/media/5h5Dc7VuB6UYzM8r2b/giphy.gif)
 
 
-![Cognizance Pairs Matched](https://gph.to/2NEBiDm)
+![Cognizance Pairs Matched](https://media.giphy.com/media/69jy6yLC001CVFYo84/giphy.gif)
 
 
-![Cognizance Game Over](https://gph.to/2m5QEUT)
+![Cognizance Game Over](https://media.giphy.com/media/SGW4tTqSeE7EtPGrEB/giphy.gif)
 
 
-![Cognizance Game Restart](https://gph.to/2uaIleN)
+![Cognizance Game Restart](https://media.giphy.com/media/RkHyRpRATaKlVrpzaK/giphy.gif)
