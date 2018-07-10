@@ -4,7 +4,7 @@ This is a demo for Cognizance, a cognitive learning memory game built in JavaScr
 
 
 
-![Cognizance Login](https://media.giphy.com/media/3dfhUUxm2ITPBttbYu/giphy.gif)
+![Cognizance Login](https://media.giphy.com/media/LVu9lDVb8XRxlNgS61/giphy.gif)
 
 
 ![Cognizance Difficulty](https://media.giphy.com/media/5h5Dc7VuB6UYzM8r2b/giphy.gif)
