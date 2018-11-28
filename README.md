@@ -3,6 +3,8 @@
 ## Description
 This is a demo for Cognizance, a cognitive learning memory game built in JavaScript with a Ruby on Rails backend. The purpose of the game is to find the pairs for all cards that match as quickly as possible, with as few clicks as possible.
 
+**The live application can be found [here](https://cognizance-game.herokuapp.com/).**
+
 ## Core Features
 1. [Immediate Validation on Card Flip](#immediate-validation-on-card-flip)
 2. [Increasing Levels of Difficulty](#increasing-levels-of-difficulty)
